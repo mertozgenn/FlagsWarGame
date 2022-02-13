@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlagsWarGameClient", "FlagsWarGameClient\FlagsWarGameClient.csproj", "{64CAB7BC-144B-4D7D-BEC3-D988BC058EA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64CAB7BC-144B-4D7D-BEC3-D988BC058EA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64CAB7BC-144B-4D7D-BEC3-D988BC058EA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64CAB7BC-144B-4D7D-BEC3-D988BC058EA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64CAB7BC-144B-4D7D-BEC3-D988BC058EA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65AE56C6-45AF-4326-BE85-4308463F8D3F}
+	EndGlobalSection
+EndGlobal

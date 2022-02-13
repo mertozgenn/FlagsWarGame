@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bc7343c5-3e72-4cb9-bbe1-0402602b923b": {
+      "ProjectGuid": "bc7343c5-3e72-4cb9-bbe1-0402602b923b",
+      "DisplayName": "FlagsWarGameServer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

@@ -1,0 +1,8 @@
+C:\Users\Mert\Desktop\FlagsWarGameServer\FlagsWarGameServer\bin\Debug\FlagsWarGameServer.exe.config
+C:\Users\Mert\Desktop\FlagsWarGameServer\FlagsWarGameServer\bin\Debug\FlagsWarGameServer.exe
+C:\Users\Mert\Desktop\FlagsWarGameServer\FlagsWarGameServer\bin\Debug\FlagsWarGameServer.pdb
+C:\Users\Mert\Desktop\FlagsWarGameServer\FlagsWarGameServer\obj\Debug\FlagsWarGameServer.csproj.AssemblyReference.cache
+C:\Users\Mert\Desktop\FlagsWarGameServer\FlagsWarGameServer\obj\Debug\FlagsWarGameServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mert\Desktop\FlagsWarGameServer\FlagsWarGameServer\obj\Debug\FlagsWarGameServer.csproj.CoreCompileInputs.cache
+C:\Users\Mert\Desktop\FlagsWarGameServer\FlagsWarGameServer\obj\Debug\FlagsWarGameServer.exe
+C:\Users\Mert\Desktop\FlagsWarGameServer\FlagsWarGameServer\obj\Debug\FlagsWarGameServer.pdb
