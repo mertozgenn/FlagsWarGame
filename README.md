@@ -20,7 +20,7 @@
    ![2(2)](https://user-images.githubusercontent.com/78684195/153769580-a6dd0e16-f4e1-4bed-b3f3-ea1dfe40c19c.PNG)
  - Both players try to find opponent’s flags. 
    ![3](https://user-images.githubusercontent.com/78684195/153769586-c8d904f9-8bf8-4695-bee2-02e9a1b6c950.png)
-   ![3(2)](https://user-images.githubusercontent.com/78684195/153769593-e4e26aa9-9ed4-424e-be25-0dd9192097e4.PNG)![image](https://user-images.githubusercontent.com/78684195/153769733-4e0df36b-d541-461e-9029-59b2236a6555.png)
+   ![3(2)](https://user-images.githubusercontent.com/78684195/153769593-e4e26aa9-9ed4-424e-be25-0dd9192097e4.PNG)
 
  - If a player’s flags run out, the game finishes. 
    ![4](https://user-images.githubusercontent.com/78684195/153769601-58838c58-88de-4f31-83cd-efe18cdadb4d.png)
